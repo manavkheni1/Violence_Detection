@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@200;300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+   color: blue;
+
+}
+
+.hed{
+    
+    padding-top: 20px;
+    text-align: center;
+    justify-content: center;
+}
+.vd{
+    padding-top: 45px;
+display: flex;
+    align-items: center;
+    justify-content: center;
+}
